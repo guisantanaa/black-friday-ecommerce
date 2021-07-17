@@ -1,4 +1,4 @@
-<h2>Ecommerce Corebiz</h2>
+<h2>Landing Page ecommerce</h2>
 
 <h3>Apresentação do Projeto</h3>
 
