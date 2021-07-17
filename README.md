@@ -2,7 +2,7 @@
 
 <h3>Apresentação do Projeto</h3>
 
-<img src="./src/assets/github.gif" alt="gif do projeto" />
+<img src="./src/assets/projeto.png" alt="gif do projeto" />
 
 <h3>Descrição</h3>
 
@@ -41,3 +41,6 @@ $ yarn start
 # Uma página sera aberta em http://localhost:3000
 
 ```
+
+<h3>Link de deploy</h3>
+<a href="https://black-friday-ecommerce.vercel.app/">Link</a>
