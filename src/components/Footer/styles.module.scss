@@ -1,0 +1,53 @@
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+  height: 18rem;
+  background: #a8ece6;
+
+  .cardInformation {
+    padding-left: 2rem;
+
+    h2 {
+      padding-top: 1rem;
+      color: #60656f;
+    }
+    a {
+      display: grid;
+      padding-top: 1rem;
+      font-size: 1.2rem;
+      color: #60656f;
+    }
+  }
+
+  .cardSocial {
+    margin: 8rem;
+    text-align: center;
+
+    a {
+      margin: 1rem;
+    }
+  }
+}
+
+@media (max-width: 900px) {
+  .footer {
+    height: 20rem;
+  }
+
+  .cardSocial {
+    display: flex;
+  }
+}
+
+@media (max-width: 600px) {
+  .footer {
+    height: 20rem;
+
+    .cardSocial {
+      margin: 1rem;
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
